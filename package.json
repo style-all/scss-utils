@@ -1,0 +1,29 @@
+{
+    "author": "Team @style-all",
+    "bugs": {
+        "url": "https://github.com/style-all/scss-utils/issues"
+    },
+    "description": "Utility variables and mixins for SCSS",
+    "files": [
+        "index.scss"
+    ],
+    "homepage": "https://github.com/style-all/scss-utils",
+    "keywords": [
+        "css",
+        "scss",
+        "utils"
+    ],
+    "license": "MIT",
+    "main": "index.scss",
+    "name": "@style-all/scss-utils",
+    "publishConfig": {
+        "access": "public",
+        "tag": "latest"
+    },
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/style-all/scss-utils.git"
+    },
+    "version": "0.0.2"
+}

@@ -1,0 +1,6 @@
+$breakpoints-mobile: 630px;
+@mixin mq-mobile {
+    @media screen and (max-width: $breakpoints-mobile) {
+        @content;
+    }
+}
